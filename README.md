@@ -13,7 +13,7 @@ This project template consist in two folders (Client and Server) and a requireme
 
    * Server Folder
         1. server.py
-        2. clienthandler.py 
+        2. client_handler.py 
         3. menu.py 
    * requirements.txt
         
