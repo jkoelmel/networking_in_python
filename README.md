@@ -477,16 +477,3 @@ To run a client, you have two options:
 ``` 
 python3 client.py 
 ```
-
-   
-
-
-
-
-
-
-
-
-
-
-
