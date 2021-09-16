@@ -21,7 +21,7 @@ This project template consist in two folders (Client and Server) and a requireme
    you are not allowed to modify the code from client.py and server.py once you copied and pasted it from
    the labs. The only values students are allowed to modify in server.py are the IP address and port of the server***
 
-## Project Requirements and Output Examples (***must read***)
+## Project Description & Output Examples
 
 The following are the guidelines you must follow to implement this project.
 
