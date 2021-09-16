@@ -1,2 +1,2 @@
 # Python-Networking
- Python Implementation of mutliple layers of the OSI model
+ Python Implementation of multiple layers of the OSI model
